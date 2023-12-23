@@ -1,0 +1,13 @@
+/backend/__pycache__/*.pyc
+/backend_model/__pycache__/__init__.cpython-37.pyc
+/backend_model/__pycache__/__init__.cpython-39.pyc
+/backend_model/__pycache__/database.cpython-37.pyc
+/backend_model/__pycache__/database.cpython-39.pyc
+/backend_model/__pycache__/table_ndp.cpython-37.pyc
+/backend_model/__pycache__/table_school.cpython-37.pyc
+/backend_model/__pycache__/table_typhoon.cpython-37.pyc
+/backend_model/__pycache__/table_user.cpython-39.pyc
+/server_configuration/__pycache__/__init__.cpython-37.pyc
+/server_configuration/__pycache__/__init__.cpython-39.pyc
+/server_configuration/__pycache__/appConfig.cpython-37.pyc
+/server_configuration/__pycache__/appConfig.cpython-39.pyc
